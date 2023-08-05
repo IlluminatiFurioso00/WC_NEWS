@@ -1,0 +1,108 @@
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    scrollbar-color: #a52c2c;
+    }
+    .titulo{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        background-color: #a52c2c;
+        width: 100%;
+    }
+    .site-logo{
+        width: 15%;
+        cursor: pointer;
+    }
+    .Magnus{
+        display: flex;
+        justify-content: center;
+        color: #FFFFFF;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 54px;
+        font-weight: 700;
+        width: 100%;
+        
+        
+    }
+    
+    
+    .separar-img{
+        width: 40%;
+    }
+    .separar-img2{
+        width: 40%;
+    }
+    .separar-img3{
+        width: 50%;
+    }
+    .separar-img4{
+        width: 40%;
+    }
+    .textos{
+        width: 100%;
+    }
+    .titulos{
+        width: 100%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 64px;
+        font-weight: 400;
+        margin-left: 5%;
+        margin-bottom: 5%;
+        margin-top: 2%;
+    }
+    .texto{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        width: 95%;
+        align-items: center;
+        text-align: justify;
+        margin: 2%;
+    }
+    .categorias{
+        color: blue;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .organico{
+        color: rgb(97, 77, 50);
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .reciclavel{
+    color: darkgreen;
+    font-weight: 600;
+    font-size: 30px;
+    }
+    .rejeito{
+        color: blueviolet;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .residuos{
+        color: rgb(255, 153, 0);
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .eu{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 200;
+        font-size: medium;
+        margin-bottom: 3%;
+    }
+    .creditos{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 300;
+        font-style: italic;
+        font-size: medium;
+    }
